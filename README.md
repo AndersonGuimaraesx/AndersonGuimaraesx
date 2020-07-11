@@ -2,9 +2,9 @@
 <h1 align='center'>👋 E ai, tudo certo??</h1><br>
 
 <p align='center'>
-  🖥  Atuo como back-end developer desde 2017<br>
-  🌱 Estou aprendendo sobre modelagem de domínio, arquitetura de software e testes de software<br>
-  🧩 Gosto de esportes e eSports<br>
+  🖥  Atuo como back-end developer desde 2017.<br>
+  🌱 Estou aprendendo sobre modelagem de domínio, arquitetura de software e testes de software.<br>
+  🧩 Gosto de esportes e eSports.<br>
   💬 Acredito que “luck is when preparation meets opportunity”.<br>
 </p>
 
