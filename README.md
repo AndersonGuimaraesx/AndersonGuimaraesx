@@ -3,10 +3,10 @@
 <h1 align='center'>👋 E ai, tudo certo??</h1><br>
 
 <p align='center'>
-  🖥  Atua como back-end developer desde 2017<br>
-  🌱 Aprendendo sobre modelagem de domínio, arquitetura de software e testes de software<br>
-  🧩 Gosta de esportes e eSports<br>
-  💬 Acredita que “luck is when preparation meets opportunity”.<br>
+  🖥  Atuo como back-end developer desde 2017<br>
+  🌱 Estou aprendendo sobre modelagem de domínio, arquitetura de software e testes de software<br>
+  🧩 Gosto de esportes e eSports<br>
+  💬 Acredito que “luck is when preparation meets opportunity”.<br>
 </p>
 
 <br>
