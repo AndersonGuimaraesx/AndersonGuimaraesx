@@ -1,4 +1,3 @@
-![alt tag](https://res.cloudinary.com/andersonguimaraes/image/upload/v1594491396/anderson-guimaraes.png) 
 
 <h1 align='center'>👋 E ai, tudo certo??</h1><br>
 
@@ -10,6 +9,8 @@
 </p>
 
 <br>
+
+![alt tag](https://res.cloudinary.com/andersonguimaraes/image/upload/v1594491396/anderson-guimaraes.png) 
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/andersonguimaraess/" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
