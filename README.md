@@ -1,20 +1,14 @@
 ![alt tag](https://res.cloudinary.com/andersonguimaraes/image/upload/v1594491396/anderson-guimaraes.png) 
 
-teste.
+<h1 align='center'>👋 E ai, tudo certo??</h1><br>
 
+<p align='center'>
+ 
+</p>
 
-<!--
-**AndersonGuimaraesx/AndersonGuimaraesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👋
--->
+<p align='center'>
+<a href="https://www.linkedin.com/in/andersonguimaraess/" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
+<a href="https://www.instagram.com/andersonguimaraess_/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
+</p>
