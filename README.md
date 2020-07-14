@@ -5,7 +5,7 @@
   🖥  Atuo como back-end developer desde 2017.<br>
   🌱 Focado em modelagem de domínio, arquitetura e testes de software.<br>
   🧩 Gosto de esportes e eSports.<br>
-  💬 Acredito que “luck is when preparation meets opportunity”.<br>
+      “luck is when preparation meets opportunity”.<br>
 </p>
 
 <br>
