@@ -1,8 +1,6 @@
 <h1 align='center'>E ai, tudo certo?? 👋</h1>
 <br>
 
-<br>
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersonGuimaraesx&show_icons=true&theme=graywhite&count_private=true)
 
 <p align="left">
