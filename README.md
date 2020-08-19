@@ -2,8 +2,13 @@
 <br>
 
  <p align="center">
+ 
+  <a>
+      <img alt="Teste" src="https://visitor-badge.laobi.icu/badge?page_id=AndersonGuimaraesx.AndersonGuimaraesx" />
+  </a>
+
   
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AndersonGuimaraesx.AndersonGuimaraesx)  
+  <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AndersonGuimaraesx.AndersonGuimaraesx)   -->
   
   </p>
 
@@ -29,10 +34,10 @@
   <img src="https://media2.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif?cid=ecf05e4774f8b1f80c6896cb218bda8914882688cd8e9ebc&rid=giphy.gif" width="40">
   <!-- github -->
   <img src="https://media2.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47e072e3e0aca14d8a293fc35b20d44a3e7143cae0&rid=giphy.gif" width="40">
+  <!-- prompt   -->
+  <img src="https://media2.giphy.com/media/lr1QZ7prMwwkqSSVLa/giphy.gif?cid=ecf05e47435079adac9a9aa8a15700bc9f4b8a1f8618b59b&rid=giphy.gif" width="40">
   <!-- git -->
   <!-- <img src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e477a44049e28a30710d2dd33d527d329918f30c6a2&rid=giphy.gif" width="50"> -->
-  <!-- prompt   -->
-  <img src="https://media2.giphy.com/media/lr1QZ7prMwwkqSSVLa/giphy.gif?cid=ecf05e47435079adac9a9aa8a15700bc9f4b8a1f8618b59b&rid=giphy.gif" width="30">
   
 </p>
 
