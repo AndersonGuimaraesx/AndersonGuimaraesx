@@ -29,7 +29,7 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/andersonguimaraess/" target="_blank" title="LinkedIn"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
   <a href="https://www.instagram.com/andersonguimaraess_/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
-  <a><img src="https://visitor-badge.laobi.icu/badge?page_id=AndersonGuimaraesx.AndersonGuimaraesx" /></a>
+  <a target="_blank"><img height="28" src="https://visitor-badge.laobi.icu/badge?page_id=AndersonGuimaraesx.AndersonGuimaraesx"></i></a>
 </p>
 
 <!-- <p align="center">
