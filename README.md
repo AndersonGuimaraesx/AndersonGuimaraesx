@@ -2,6 +2,7 @@
 <br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersonGuimaraesx&show_icons=true&theme=graywhite&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGuimaraesx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <!-- prompt   -->
