@@ -1,9 +1,9 @@
 <h1 align='center'>E ai, tudo certo?? 👋</h1>
 <br>
 
-![image](https://github.com/AndersonGuimaraesx/AndersonGuimaraesx/blob/master/dino.gif)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AndersonGuimaraesx.AndersonGuimaraesx)
+
+![image](https://github.com/AndersonGuimaraesx/AndersonGuimaraesx/blob/master/dino.gif)
 
 <p align="left">
    <!-- js -->
