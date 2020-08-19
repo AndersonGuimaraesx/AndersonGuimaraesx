@@ -1,7 +1,7 @@
 <h1 align='center'>E ai, tudo certo?? 👋</h1>
 <br>
 
- <p align="center">
+<p align="center">
   <a>
       <img src="https://visitor-badge.laobi.icu/badge?page_id=AndersonGuimaraesx.AndersonGuimaraesx" />
   </a>
@@ -10,6 +10,8 @@
 <br>
 <br>
 <br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersonGuimaraesx)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <!-- prompt   -->
