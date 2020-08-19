@@ -33,7 +33,7 @@
   
 </p>
 
-<br>
+---
 
 ![image](https://github.com/AndersonGuimaraesx/AndersonGuimaraesx/blob/master/dino.gif)
 
