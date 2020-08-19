@@ -2,22 +2,10 @@
 <br>
 
  <p align="center">
- 
   <a>
       <img alt="Teste" src="https://visitor-badge.laobi.icu/badge?page_id=AndersonGuimaraesx.AndersonGuimaraesx" />
   </a>
-
-  
-  <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AndersonGuimaraesx.AndersonGuimaraesx)   -->
-  
-  </p>
-
-
-
-
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AndersonGuimaraesx.AndersonGuimaraesx) -->
-
-![image](https://github.com/AndersonGuimaraesx/AndersonGuimaraesx/blob/master/dino.gif)
+</p>
 
 <p align="left">
    <!-- js -->
@@ -40,6 +28,10 @@
   <!-- <img src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e477a44049e28a30710d2dd33d527d329918f30c6a2&rid=giphy.gif" width="50"> -->
   
 </p>
+
+---
+
+![image](https://github.com/AndersonGuimaraesx/AndersonGuimaraesx/blob/master/dino.gif)
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/andersonguimaraess/" target="_blank" title="LinkedIn"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
