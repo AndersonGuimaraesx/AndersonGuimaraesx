@@ -1,7 +1,16 @@
 <h1 align='center'>E ai, tudo certo?? 👋</h1>
 <br>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AndersonGuimaraesx.AndersonGuimaraesx)
+ <p align="center">
+  
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AndersonGuimaraesx.AndersonGuimaraesx)  
+  
+  </p>
+
+
+
+
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AndersonGuimaraesx.AndersonGuimaraesx) -->
 
 ![image](https://github.com/AndersonGuimaraesx/AndersonGuimaraesx/blob/master/dino.gif)
 
