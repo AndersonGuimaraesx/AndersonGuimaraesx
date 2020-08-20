@@ -17,12 +17,11 @@
   <!-- github -->
   <img src="https://media2.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47e072e3e0aca14d8a293fc35b20d44a3e7143cae0&rid=giphy.gif" width="45">
   <!-- git -->
-  <img src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e477a44049e28a30710d2dd33d527d329918f30c6a2&rid=giphy.gif" width="50">
+  <img src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e477a44049e28a30710d2dd33d527d329918f30c6a2&rid=giphy.gif" width="70">
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersonGuimaraesx&show_icons=true&theme=default&count_private=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGuimaraesx&layout=compact)](https://github.com/AndersonGuimaraesx/github-readme-stats)
-
 ![image](https://github.com/AndersonGuimaraesx/AndersonGuimaraesx/blob/master/dino.gif)
 
 <p align='center'>
@@ -30,9 +29,3 @@
   <a href="https://www.linkedin.com/in/andersonguimaraess/" target="_blank" title="LinkedIn"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
   <a href="https://www.instagram.com/andersonguimaraess_/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
 </p>
-
-<!-- <p align="right">
-  <a><img src="https://visitor-badge.laobi.icu/badge?page_id=AndersonGuimaraesx.AndersonGuimaraesx" /></a>
-</p> -->
-
-
