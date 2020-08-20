@@ -1,9 +1,6 @@
 <h1 align='center'>E ai, tudo certo?? 👋</h1>
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersonGuimaraesx&show_icons=true&theme=default&count_private=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGuimaraesx&layout=compact)](https://github.com/AndersonGuimaraesx/github-readme-stats)
-
 <p align="left">
   <!-- prompt   -->
   <img src="https://media2.giphy.com/media/lr1QZ7prMwwkqSSVLa/giphy.gif?cid=ecf05e47435079adac9a9aa8a15700bc9f4b8a1f8618b59b&rid=giphy.gif" width="50">
@@ -23,7 +20,8 @@
   <img src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e477a44049e28a30710d2dd33d527d329918f30c6a2&rid=giphy.gif" width="50">
 </p>
 
----
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersonGuimaraesx&show_icons=true&theme=default&count_private=true&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGuimaraesx&layout=compact)](https://github.com/AndersonGuimaraesx/github-readme-stats)
 
 ![image](https://github.com/AndersonGuimaraesx/AndersonGuimaraesx/blob/master/dino.gif)
 
