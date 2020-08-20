@@ -17,7 +17,7 @@
   <!-- github -->
   <img src="https://media2.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47e072e3e0aca14d8a293fc35b20d44a3e7143cae0&rid=giphy.gif" width="40">
   <!-- git -->
-  <img src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e477a44049e28a30710d2dd33d527d329918f30c6a2&rid=giphy.gif" width="70">
+  <img src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e477a44049e28a30710d2dd33d527d329918f30c6a2&rid=giphy.gif" width="85">
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersonGuimaraesx&show_icons=true&theme=default&count_private=true&hide=issues)
