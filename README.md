@@ -18,6 +18,18 @@
   <img src="https://media2.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47e072e3e0aca14d8a293fc35b20d44a3e7143cae0&rid=giphy.gif" width="40">
   <!-- git -->
   <img src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e477a44049e28a30710d2dd33d527d329918f30c6a2&rid=giphy.gif" width="85">
+  
+  <!-- code -->
+  <img src="https://media2.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif" width="40">
+   <!-- foguete 1 -->
+  <img src="https://media1.giphy.com/media/QTmfvHGklosY1ha87W/giphy.gif" width="40">
+   <!-- foguete 2 -->
+  <img src="https://media1.giphy.com/media/TKvYouXUiE6RtWPzQu/giphy.gif" width="40">
+   <!-- nuvem 1 -->
+  <img src="https://media2.giphy.com/media/4KEMBV2Mj1HX3J64Az/giphy.gif" width="40">
+   <!-- nuvem 2 -->
+  <img src="https://media0.giphy.com/media/W6o1z1Tz39xesR8oJW/giphy.gif" width="40">
+
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersonGuimaraesx&show_icons=true&theme=default&count_private=true&hide=issues)
