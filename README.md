@@ -1,7 +1,7 @@
 <h1 align='center'>E ai, tudo certo?? 👋</h1>
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersonGuimaraesx&show_icons=true&theme=graywhite&count_private=true&hide_title=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersonGuimaraesx&show_icons=true&theme=default&count_private=true&hide_title=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGuimaraesx&layout=compact)](https://github.com/AndersonGuimaraesx/github-readme-stats)
 
 <p align="left">
