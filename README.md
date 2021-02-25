@@ -22,12 +22,12 @@
   <img src="https://media1.giphy.com/media/TKvYouXUiE6RtWPzQu/giphy.gif" width="40">
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersonGuimaraesx&show_icons=true&theme=default&count_private=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGuimaraesx&layout=compact)](https://github.com/AndersonGuimaraesx/github-readme-stats)
-![image](https://github.com/AndersonGuimaraesx/AndersonGuimaraesx/blob/master/dino.gif)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anderson-guimaraes&show_icons=true&theme=default&count_private=true&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-guimaraes&layout=compact)](https://github.com/anderson-guimaraes/github-readme-stats)
+![image](https://github.com/anderson-guimaraes/anderson-guimaraes/blob/master/dino.gif)
 
 <p align='center'>
-  <a target="_blank"><img height="28" src="https://visitor-badge.laobi.icu/badge?page_id=AndersonGuimaraesx.AndersonGuimaraesx"></i></a>
+  <a target="_blank"><img height="28" src="https://visitor-badge.laobi.icu/badge?page_id=anderson-guimaraes.anderson-guimaraes"></i></a>
   <a href="https://www.linkedin.com/in/andersonguimaraess/" target="_blank" title="LinkedIn"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
   <a href="https://www.instagram.com/andersonguimaraess_/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
 </p>
