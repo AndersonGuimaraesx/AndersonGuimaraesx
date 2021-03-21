@@ -10,7 +10,7 @@
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=anderson-guimaraes&show_icons=true&theme=default">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-guimaraes&layout=compact&" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-guimaraes&layout=compact&langs_count=8" />
   </a>
 </p>
 
