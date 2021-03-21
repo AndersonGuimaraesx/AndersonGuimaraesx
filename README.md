@@ -1,9 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anderson-guimaraes">
 <br>
 
-<h4 align="center">
+<h2 align="center">
   Olá, bem-vindo ao meu repositório 👋
-</h4>
+</h2>
 
 ---
 
