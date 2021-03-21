@@ -5,8 +5,6 @@
   Olá, bem-vindo ao meu repositório 👋
 </h2>
 
----
-
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=anderson-guimaraes&show_icons=true&theme=default">
@@ -16,8 +14,9 @@
   </a>
 </p>
 
-<p style="display: inline_block" align="center">
 <br>
+
+<p style="display: inline_block" align="center">
 
 <img align="center"  height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
@@ -45,6 +44,8 @@
 <img align="center"  height="35" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center"  height="35" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </p>
+
+<br>
 
 ![image](./imgs/dino.gif)
 
